@@ -7,3 +7,4 @@ Array(c*b)
 using Plots
 gr(fmt=png)
 plot(sin, 0, 10, label="sin(x)")
+print("This is a plot")
