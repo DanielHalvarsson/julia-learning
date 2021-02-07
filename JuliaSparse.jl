@@ -1,3 +1,6 @@
+# Working with sparse matricies
+
+
 using SparseArrays
 a = [0.5 1.0 0.0 ; 2.0 0.0 0.0 ; 0.0 0.0 0.0]
 b = sparse(a)
